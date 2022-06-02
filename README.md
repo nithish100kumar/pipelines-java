@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/2159488/create%20pipelines/_apis/build/status/nithish100kumar.pipelines-java?branchName=main)](https://dev.azure.com/2159488/create%20pipelines/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
